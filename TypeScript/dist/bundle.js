@@ -1,0 +1,1 @@
+(()=>{"use strict";document.write("app.js: Hello world"),document.write(45.1415926535898.toString())})();
